@@ -1,0 +1,2 @@
+### What is this project ?
+Project using Python to analyse the factors affecting the profitability of 50 companies.Performed multiple regression analysis and used the backward method to identify the most influential variables.
